@@ -1,0 +1,89 @@
+        <li class="basefix">
+            <div class="ticket_user_left">
+                <h4>
+                     <span class='pkg-heart-5'><span></span></span>
+                </h4>
+                广州印象，一次出差喜欢上了这座城市，有年代感，也非常现代，广州人随和，爱煲汤爱早茶，街景有熟悉感，如果说上海是摩登少女，那广州就是穿着凸显身材的旗袍的轻熟女，亦如“匆匆一见”的小蛮腰。
+                    <div class="user_pic_show">
+                        <ul class="small_pic_ls basefix">
+                                <li><img src="https://dimg01.c-ctrip.com/images/10010p000000gddvkAF8F_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg01.c-ctrip.com/images/10010p000000gddvkAF8F_C_400_300.jpg"></li>
+                                <li><img src="https://dimg07.c-ctrip.com/images/100q0p000000g1nn0A412_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg07.c-ctrip.com/images/100q0p000000g1nn0A412_C_300_400.jpg"></li>
+                                <li><img src="https://dimg08.c-ctrip.com/images/100c0p000000g33u1FC1A_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg08.c-ctrip.com/images/100c0p000000g33u1FC1A_C_300_400.jpg"></li>
+                                <li><img src="https://dimg03.c-ctrip.com/images/10020p000000g7i17F080_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg03.c-ctrip.com/images/10020p000000g7i17F080_C_400_300.jpg"></li>
+                        </ul>
+                    </div>
+                <div class="ticket_user_pro basefix">
+                    <span class="pkg-user-time"> M48721**** &nbsp;&nbsp;&nbsp;2018-02-28  &nbsp;&nbsp;&nbsp;20:55 </span>
+                    <span class="pkg-user-time">订购产品 : 广州白云山+黄埔军校旧址纪念馆+越秀公园+陈家祠+珠江夜游一日游【广州本地精华+含午晚餐】</span>
+                </div>
+            </div>
+        </li>
+        <li class="basefix">
+            <div class="ticket_user_left">
+                <h4>
+                     <span class='pkg-heart-5'><span></span></span>
+                </h4>
+                妈妈爸爸第一次去广州，说是安排还不错。广州很美，有机会还会再去的。
+                <div class="ticket_user_pro basefix">
+                    <span class="pkg-user-time"> E1523**** &nbsp;&nbsp;&nbsp;2018-02-28  &nbsp;&nbsp;&nbsp;13:06 </span>
+                    <span class="pkg-user-time">订购产品 : 广州白云山+黄埔军校旧址纪念馆+越秀公园+陈家祠+珠江夜游一日游【广州本地精华+含午晚餐】</span>
+                </div>
+            </div>
+        </li>
+        <li class="basefix">
+            <div class="ticket_user_left">
+                <h4>
+                     <span class='pkg-heart-4'><span></span></span>
+                </h4>
+                还不错哦，行程安排合理，导游也耐心
+                <div class="ticket_user_pro basefix">
+                    <span class="pkg-user-time"> nbcyy**** &nbsp;&nbsp;&nbsp;2018-02-26  &nbsp;&nbsp;&nbsp;15:12 </span>
+                    <span class="pkg-user-time">订购产品 : 广州白云山+黄埔军校旧址纪念馆+越秀公园+陈家祠+珠江夜游一日游【广州本地精华+含午晚餐】</span>
+                </div>
+            </div>
+        </li>
+        <li class="basefix">
+            <div class="ticket_user_left">
+                <h4>
+                     <span class='pkg-heart-4'><span></span></span>
+                </h4>
+                行程安排合理，导游讲解也清楚（不包小蛮腰登塔），中餐吃的不错，但中途下雨，坐车观赏的会展中心什么就看不清楚了。珠江夜游是压轴亮点，虽然船上盒饭很一般。
+                    <div class="user_pic_show">
+                        <ul class="small_pic_ls basefix">
+                                <li><img src="https://dimg09.c-ctrip.com/images/100j0p000000fxovzA165_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg09.c-ctrip.com/images/100j0p000000fxovzA165_C_300_400.jpg"></li>
+                                <li><img src="https://dimg06.c-ctrip.com/images/10040p000000fwwukF735_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg06.c-ctrip.com/images/10040p000000fwwukF735_C_400_300.jpg"></li>
+                                <li><img src="https://dimg01.c-ctrip.com/images/100l0p000000fycg05D8C_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg01.c-ctrip.com/images/100l0p000000fycg05D8C_C_300_400.jpg"></li>
+                                <li><img src="https://dimg03.c-ctrip.com/images/10010p000000gb3pkF942_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg03.c-ctrip.com/images/10010p000000gb3pkF942_C_400_300.jpg"></li>
+                                <li><img src="https://dimg08.c-ctrip.com/images/100d0p000000fwo0e905F_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg08.c-ctrip.com/images/100d0p000000fwo0e905F_C_300_400.jpg"></li>
+                                <li><img src="https://dimg01.c-ctrip.com/images/100b0p000000g0k9r0C56_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg01.c-ctrip.com/images/100b0p000000g0k9r0C56_C_400_300.jpg"></li>
+                        </ul>
+                    </div>
+                <div class="ticket_user_pro basefix">
+                    <span class="pkg-user-time"> M26770**** &nbsp;&nbsp;&nbsp;2018-02-26  &nbsp;&nbsp;&nbsp;05:48 </span>
+                    <span class="pkg-user-time">订购产品 : 广州白云山+黄埔军校旧址纪念馆+越秀公园+陈家祠+珠江夜游一日游【广州本地精华+含午晚餐】</span>
+                </div>
+            </div>
+        </li>
+        <li class="basefix">
+            <div class="ticket_user_left">
+                <h4>
+                     <span class='pkg-heart-5'><span></span></span>
+                </h4>
+                景点都比较有代表性，时间安排比较合理。午餐在团餐中也算不错的了。无购物。导游也很认真。比较满意。自己参团，不错的选择。算是对这个城市有了基本的感受。
+                    <div class="user_pic_show">
+                        <ul class="small_pic_ls basefix">
+                                <li><img src="https://dimg09.c-ctrip.com/images/10090p000000g04sd5490_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg09.c-ctrip.com/images/10090p000000g04sd5490_C_400_300.jpg"></li>
+                                <li><img src="https://dimg06.c-ctrip.com/images/100a0p000000fz11g4DF6_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg06.c-ctrip.com/images/100a0p000000fz11g4DF6_C_300_400.jpg"></li>
+                                <li><img src="https://dimg02.c-ctrip.com/images/100k0p000000g1pleDF03_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg02.c-ctrip.com/images/100k0p000000g1pleDF03_C_400_300.jpg"></li>
+                                <li><img src="https://dimg07.c-ctrip.com/images/10070p000000ge7n39F0A_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg07.c-ctrip.com/images/10070p000000ge7n39F0A_C_400_300.jpg"></li>
+                                <li><img src="https://dimg08.c-ctrip.com/images/100e0p000000g0ilp416E_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg08.c-ctrip.com/images/100e0p000000g0ilp416E_C_400_300.jpg"></li>
+                                <li><img src="https://dimg07.c-ctrip.com/images/100e0p000000g0ilq514F_C_100_100.jpg" alt="" width="100px" height="100px" data-bigimg="https://dimg07.c-ctrip.com/images/100e0p000000g0ilq514F_C_300_400.jpg"></li>
+                        </ul>
+                    </div>
+                <div class="ticket_user_pro basefix">
+                    <span class="pkg-user-time"> _CFT010000001864**** &nbsp;&nbsp;&nbsp;2018-02-25  &nbsp;&nbsp;&nbsp;14:30 </span>
+                    <span class="pkg-user-time">订购产品 : 广州白云山+黄埔军校旧址纪念馆+越秀公园+陈家祠+珠江夜游一日游【广州本地精华+含午晚餐】</span>
+                </div>
+            </div>
+        </li>
+<input id="CommentsCount" name="CommentsCount" type="hidden" value="142" />
